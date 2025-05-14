@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Anna! </h1>
 
-<!--
-**arl612/arl612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 💻 My Projects:</h2>
+
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img  />][youtube]
+[<img  />][linkedin]
+
+
+[youtube]: 
+[linkedin]: 
 
 Here are some ideas to get you started:
 
